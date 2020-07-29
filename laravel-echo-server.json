@@ -1,5 +1,5 @@
 {
-	"authHost": "http://college.test",
+	"authHost": "http://demo.test",
 	"authEndpoint": "/broadcasting/auth",
 	"clients": [
 		{
